@@ -1,0 +1,3 @@
+pls check the all diagrams
+and cls diagram ae vull ase, it should be contained just entity classes name.
+pls check and update.
